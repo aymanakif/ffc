@@ -1,0 +1,6 @@
+echo "# ffc" >> README.md
+git init
+git add README.md
+git commit -m "ffc1"
+git remote add origin https://github.com/aymanakif/ffc.git
+git push -u origin master
